@@ -37,7 +37,7 @@ excites me.</p>
       <p>I hope to get a thorough understanding of several programming languages from this
 course. In addition to helping me with practical skills, I hope to lay a strong
 foundation that will improve my problem-solving skills and get me ready for
-difficulties in the real world. 5. What topics you want to be</p>
+difficulties in the real world.</p>
     <hr></hr>
 
       <h4>5.  What topics you want to be discussed in this subject?</h4>
