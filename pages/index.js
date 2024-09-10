@@ -9,22 +9,21 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <hr></hr>
-        <h4>1.  Introduce yourself.  What are your hobbies, favourite music, favourite food, and other things you can tell me about yourself?</h4>  
-        <p>Hi, I’m Ivan V. Andres. I particularly enjoy playing table tennis and staying creative
-on the internet by playing games like Apex Legends and Valorant. I'm a big fan of
-Billie Eilish's music since it consistently makes me feel better and helps me stay
-focused. In terms of cuisine, I consider Sinigang na baboy to be the epitome of
-comfort food. I'm constantly trying to broaden my horizons and learn</p>
-    <hr></hr>
-        
-        <h4>2.  Why did you take up IT?</h4>
-        <p>I am fascinated by how technology is influencing our world, which is why I decided to
-study IT. I find it quite thrilling to be able to come up with creative solutions for
-challenging issues. IT also seems like a perfect fit for my interests and professional
-objectives because it's a very dynamic industry with lots of room for specialization
-and progress.</p>
-    <hr></hr>
+        <center>
+        <p>10 Things That Require Zero Talent</p>
+    </center>
+    <ul>
+        <li>Punctuality</li>
+        <li>Empathy</li>
+        <li>Organizational Skill</li>
+        <li>Body Language</li>
+        <li>Energy</li>
+        <li>Positive Attitude</li>
+        <li>Passion</li>
+        <li>Consistency</li>
+        <li>Doing Extra</li>
+        <li>Being Prepared</li>
+    </ul>
 
       <h4>3.  What career do you see yourself exploring after graduation?</h4>
       <p>I plan to look into a profession in the software engineering field after I graduate. This
